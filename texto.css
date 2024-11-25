@@ -1,0 +1,16 @@
+h1, h2, h3, p, a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+h1, h2, h3{
+    width: 100%;
+    text-align: center;
+}
+p{text-align: justify;}
+#whatsapp:hover{
+    border-bottom: 2px solid green;
+    border-radius: 20pt;
+    transition: 1s;
+}
+#whatsapp{transition: 1s; border-bottom: none;}

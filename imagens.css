@@ -1,0 +1,11 @@
+img{
+    width: 500px;
+    aspect-ratio: 16/9;
+    border-radius: 20pt;
+    filter: blur(15px);
+}
+img:hover{
+    filter: blur(0);
+    width: 700px;
+    transition: 1s;
+}
